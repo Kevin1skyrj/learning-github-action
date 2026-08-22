@@ -1,1 +1,1 @@
-Learning gtihub Action
+Learning Github Action
